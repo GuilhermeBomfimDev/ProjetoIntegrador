@@ -32,78 +32,67 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________
 
-# Telas do Projeto
+# Telas do Projeto - Login
 
-## 1 - Tela de Login
-![Tela de Login](./ImagensPI/TelaLogin.png)
-
-________________________________________________________________________________________
-
-## 2 - Login feito com Sucesso
-
-<ol>
-  <li>Login de Aluno</li>
-  <li>Login de Professor</li>
-  <li>Login de Fornecedor</li>
-</ol>
-
-![Tela Login de Aluno](./ImagensPI/LoginAluno.png) ![Tela Login de Professor](./ImagensPI/LoginProfessor.png) ![Tela Login de Fornecedor](./ImagensPI/LoginFornecedor.png)
+## 1 - Tela de Login - Aluno
+<img src="./ImagensPI/TelaLogin.png" alt="Cadastro feito com sucesso" width="225"/> <img src="./ImagensPI/LoginAluno.png" alt="Cadastro feito com sucesso" width="225"/>
 
 ________________________________________________________________________________________
 
-## 3 - Tela de escolha: Tipo de cadastro
-![Tela de escolha: Tipo de cadastro](./ImagensPI/TelaTipoCadastro.png)
+## 2 - Tela de Login - Professor
+<img src="./ImagensPI/TelaLogin.png" alt="Cadastro feito com sucesso" width="227"/> <img src="./ImagensPI/LoginProfessor.png" alt="Cadastro feito com sucesso" width="225"/>
 
 ________________________________________________________________________________________
 
-## 4 - Cadastro de Pessoa Física: Tela de Cadastro
-![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroPessoaFísica/CadastroPessoaFísica.png)
+## 3 - Tela de Login - Fornecedor
+<img src="./ImagensPI/TelaLogin.png" alt="Cadastro feito com sucesso" width="227"/> <img src="./ImagensPI/LoginProfessor.png" alt="Cadastro feito com sucesso" width="225"/>
 
 ________________________________________________________________________________________
 
-## 5 - Cadastro de Aluno ou Professor
-<img src="./ImagensPI/CadastroPessoaFísica/TelaProfessorAluno.png" alt="Cadastro feito com sucesso" width="258"/> ![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroPessoaFísica/CadastroAluno.png) ![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroPessoaFísica/CadastroProfessor.png)
+## 4 - Tela de Login - Erro Email ou Senha
+<img src="./ImagensPI/Erros/LoginErroEmailSenha.png" alt="Erro Email ou Senha" width="227"/>
 
 ________________________________________________________________________________________
 
-## 6 - Cadastro de Pessoa Jurídica: Tela de Cadastro
-![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroPessoaJuridica/CadastroPessoaJuridica.png)
+## 5 - Tela de Login - Erro CPF
+<img src="./ImagensPI/Erros/LoginErroCpf.png" alt="CPF inválido" width="227"/>
 
 ________________________________________________________________________________________
 
-## 7 - Cadastro de Fornecedor
-![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroPessoaJuridica/CadastroFornecedor.png)
+## 6 - Tela de Login - Erro CNPJ
+<img src="./ImagensPI/Erros/LoginErroCnpj.png" alt="CNPJ inválido" width="227"/>
 
 ________________________________________________________________________________________
 
-## 8 - Cadastro feito com sucesso <img src="https://github.com/user-attachments/assets/68ac3b91-0a7d-44e5-98d0-7d241d33d07e" alt="Cadastro feito com sucesso" width="30"/>
-
-![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroSucesso.png)
-
-________________________________________________________________________________________
-
-# Erros previstos  <img src="https://github.com/user-attachments/assets/0bdfbabf-1e2b-4010-abc8-141e68093644" alt="Cadastro feito com sucesso" width="30"/>
-
-## Erro de Login
-
-<ol>
-  <li>Email ou senha incorretos</li>
-  <li>CPF inválido</li>
-  <li>CNPJ inválido</li>
-  <li>Senha alterada</li>
-</ol>
-
-![Erro Login: Email ou senha incorretos](./ImagensPI/Erros/LoginErroEmailSenha.png) ![Erro Login: CPF inválido](./ImagensPI/Erros/LoginErroCpf.png) ![Erro Login: CNPJ inválido](./ImagensPI/Erros/LoginErroCnpj.png) ![Erro Login: SenhaAlterada](./ImagensPI/Erros/SenhaAlterada.png) 
+## 7 - Tela de Login - Senha alterada a X dias
+<img src="./ImagensPI/Erros/SenhaAlterada.png" alt="Está senha foi alterada" width="227"/>
 
 ________________________________________________________________________________________
 
-## Erro de Cadastro
 
-<ol>
-  <li>Pessoa Física -> CPF inválido</li>
-  <li>Pessoa Jurídica -> CNPJ inválido</li>
-</ol>
+# Telas do Projeto - Cadastro
 
-![Erro Cadastro: CPF inválido](./ImagensPI/Erros/CadastroFalhaCpf.png) ![Erro Cadastro: CNPJ inválido](./ImagensPI/Erros/CadastroFalhaCnpj.png)
+## 1 - Cadastro de Pessoa Física - Aluno
+<img src="./ImagensPI/TelaLogin.png" alt="Tela de login" width="258"/> <img src="./ImagensPI/TelaTipoCadastro.png" alt="Escolha entre pessoa Física ou Jurídica" width="258"/> <img src="./ImagensPI/CadastroPessoaFísica/CadastroPessoaFísica.png" alt="Cadastro de Pessoa Física" width="258"/> <img src="./ImagensPI/CadastroPessoaFísica/TelaProfessorAluno.png" alt="Escolha entre professor ou aluno" width="258"/> <img src="./ImagensPI/CadastroPessoaFísica/CadastroAluno.png" alt="Cadastro de Aluno" width="258"/> <img src="./ImagensPI/CadastroSucesso.png" alt="Cadastro feito com sucesso" width="258"/> 
+
+________________________________________________________________________________________
+
+## 2 - Cadastro de Pessoa Física - Professor
+<img src="./ImagensPI/TelaLogin.png" alt="Tela de login" width="258"/> <img src="./ImagensPI/TelaTipoCadastro.png" alt="Escolha entre pessoa Física ou Jurídica" width="258"/> <img src="./ImagensPI/CadastroPessoaFísica/CadastroPessoaFísica.png" alt="Cadastro de Pessoa Física" width="258"/> <img src="./ImagensPI/CadastroPessoaFísica/TelaProfessorAluno.png" alt="Escolha entre professor ou aluno" width="258"/> <img src="./ImagensPI/CadastroPessoaFísica/CadastroProfessor.png" alt="Cadastro de professor" width="258"/> <img src="./ImagensPI/CadastroSucesso.png" alt="Cadastro feito com sucesso" width="258"/> 
+
+________________________________________________________________________________________
+
+## 3 - Cadastro de Pessoa Jurídica - Fornecedor
+<img src="./ImagensPI/TelaLogin.png" alt="Tela de login" width="258"/> <img src="./ImagensPI/TelaTipoCadastro.png" alt="Escolha entre pessoa Física ou Jurídica" width="258"/> <img src="./ImagensPI/CadastroPessoaJuridica/CadastroPessoaJuridica.png" alt="Cadastro de Pessoa Juridíca" width="258"/> <img src="./ImagensPI/CadastroPessoaJuridica/CadastroFornecedor.png" alt="Cadastro do Fornecedor" width="258"/> <img src="./ImagensPI/CadastroSucesso.png" alt="Cadastro feito com sucesso" width="258"/> 
+
+________________________________________________________________________________________
+
+## 4 - Cadastro de Pessoa Física - Erro CPF
+<img src="./ImagensPI/TelaLogin.png" alt="Tela de login" width="258"/> <img src="./ImagensPI/TelaTipoCadastro.png" alt="Escolha entre pessoa Física ou Jurídica" width="258"/> <img src="./ImagensPI/CadastroPessoaJuridica/CadastroPessoaJuridica.png" alt="Cadastro de Pessoa Juridíca" width="258"/> <img src="./ImagensPI/Erros/CadastroFalhaCpf.png" alt="CPF inválido" width="258"/>
+
+________________________________________________________________________________________
+
+## 5 - Cadastro de Pessoa Jurídica - Erro CPNJ
+<img src="./ImagensPI/TelaLogin.png" alt="Tela de login" width="258"/> <img src="./ImagensPI/TelaTipoCadastro.png" alt="Escolha entre pessoa Física ou Jurídica" width="258"/> <img src="./ImagensPI/CadastroPessoaJuridica/CadastroPessoaJuridica.png" alt="Cadastro de Pessoa Juridíca" width="258"/> <img src="./ImagensPI/Erros/CadastroFalhaCnpj.png" alt="CNPJ inválido" width="258"/>
 
 ________________________________________________________________________________________
