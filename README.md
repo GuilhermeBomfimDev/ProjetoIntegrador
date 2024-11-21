@@ -1,5 +1,15 @@
 # Projeto Integrador - 3 Semestre
 
+## Integrantes
+
+<ul>
+  <li>Carina Fernandes</li>
+  <li>Guilherme Bomfim</li>
+  <li>Leticia Menezes</li>
+  <li>Paulo Henrique</li>
+  <li>Rodrigo Soares</li>
+</ul>
+
 ## Tema: Modelagem de um Sistema Orientado a Objetos​
 
 <ul>
