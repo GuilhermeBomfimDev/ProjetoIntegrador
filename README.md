@@ -1,4 +1,4 @@
-# ProjetoIntegrador - 3 Semestre
+# Projeto Integrador - 3 Semestre
 
 ## Tema: Modelagem de um Sistema Orientado a Objetos​
 
