@@ -29,32 +29,44 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________
 
-## 2 - Tela de escolha: Tipo de cadastro
+## 2 - Login feito com Sucesso
+
+<ol>
+  <li>Login de Aluno</li>
+  <li>Login de Professor</li>
+  <li>Login de Fornecedor</li>
+</ol>
+
+![Tela Login de Aluno](./ImagensPI/LoginAluno.png) ![Tela Login de Professor](./ImagensPI/LoginProfessor.png) ![Tela Login de Fornecedor](./ImagensPI/LoginFornecedor.png)
+
+________________________________________________________________________________________
+
+## 3 - Tela de escolha: Tipo de cadastro
 ![Tela de escolha: Tipo de cadastro](./ImagensPI/TelaTipoCadastro.png)
 
 ________________________________________________________________________________________
 
-## 3 - Cadastro de Pessoa Física: Tela de Cadastro
+## 4 - Cadastro de Pessoa Física: Tela de Cadastro
 ![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroPessoaFísica/CadastroPessoaFísica.png)
 
 ________________________________________________________________________________________
 
-## 4 - Cadastro de Aluno ou Professor
+## 5 - Cadastro de Aluno ou Professor
 <img src="./ImagensPI/CadastroPessoaFísica/TelaProfessorAluno.png" alt="Cadastro feito com sucesso" width="258"/> ![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroPessoaFísica/CadastroAluno.png) ![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroPessoaFísica/CadastroProfessor.png)
 
 ________________________________________________________________________________________
 
-## 5 - Cadastro de Pessoa Jurídica: Tela de Cadastro
+## 6 - Cadastro de Pessoa Jurídica: Tela de Cadastro
 ![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroPessoaJuridica/CadastroPessoaJuridica.png)
 
 ________________________________________________________________________________________
 
-## 6 - Cadastro de Fornecedor
-![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroPessoaJuridica/CadastroPessoaJuridica.png)
+## 7 - Cadastro de Fornecedor
+![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroPessoaJuridica/CadastroFornecedor.png)
 
 ________________________________________________________________________________________
 
-## 7 - Cadastro feito com sucesso <img src="https://github.com/user-attachments/assets/68ac3b91-0a7d-44e5-98d0-7d241d33d07e" alt="Cadastro feito com sucesso" width="30"/>
+## 8 - Cadastro feito com sucesso <img src="https://github.com/user-attachments/assets/68ac3b91-0a7d-44e5-98d0-7d241d33d07e" alt="Cadastro feito com sucesso" width="30"/>
 
 ![Cadastro de Pessoa Física: Tela de Cadastro](./ImagensPI/CadastroSucesso.png)
 
